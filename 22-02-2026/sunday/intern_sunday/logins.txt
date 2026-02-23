@@ -1,0 +1,3 @@
+db: philldevcoder_intern_sunday
+username: philldevcoder_internuser
+userpass: JErE~)~%~H{W
